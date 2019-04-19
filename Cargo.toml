@@ -1,0 +1,11 @@
+[package]
+name = "temperature-conversion"
+version = "0.1.0"
+authors = ["Ovais <ovais.memon@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+
+[[bin]]
+name = "temperature-conversion"
+path = "main.rs"
